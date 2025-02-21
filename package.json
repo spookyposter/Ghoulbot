@@ -13,7 +13,7 @@
     "express": "^4.18.2",
     "socket.io": "^4.7.4",
     "jade": "^1.11.0",
-    "forever-monitor": "^1.8.0",
+    "forever-monitor": "^1.7.1",  // <-- Fixed version here
     "irc": "^1.1.0",
     "limiter": "^2.1.0",
     "cleverbot-free": "^1.0.5"
