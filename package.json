@@ -14,7 +14,7 @@
     "jade": "^1.11.0",
     "forever-monitor": "^1.7.1",
     "limiter": "^2.1.0",
-    "wolfram-alpha-api": "^2.4.0"
+    "wolfram-alpha-api": "^2.0.0"
   },
   "scripts": {
     "start": "node bot.js"
