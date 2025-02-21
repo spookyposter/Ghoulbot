@@ -13,7 +13,7 @@
     "socket.io": "^4.7.4",
     "jade": "^1.11.0",
     "forever-monitor": "^1.7.1",
-    "irc": "^1.1.0",
+    "irc": "^0.6.0",
     "limiter": "^2.1.0",
     "wolfram-alpha-api": "^2.4.0"
   },
