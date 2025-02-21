@@ -7,14 +7,14 @@
   "dependencies": {
     "async": "^3.2.4",
     "socket.io-client": "^4.7.4",
-    "libxmljs2": "^0.30.1",
     "sqlite3": "^5.1.7",
     "express": "^4.18.2",
     "socket.io": "^4.7.4",
     "pug": "^3.0.2",
     "forever-monitor": "^1.7.1",
     "limiter": "^2.1.0",
-    "axios": "^1.6.0"
+    "axios": "^1.6.0",
+    "fast-xml-parser": "^4.2.5"
   },
   "scripts": {
     "start": "node bot.js"
